@@ -1,2 +1,15 @@
-gitlab/gitlab-ce:latest
-gitlab/gitlab-ce:16.11.4-ce.0
+b3log/siyuan:latest
+cym1102/svnwebui:latest
+excalidraw/excalidraw:latest	
+filebrowser/filebrowser:latest	
+filerun/filerun:latest	
+gitlab/gitlab-ce:latest	
+jeessy/ddns-go:latest	
+jgraph/drawio:latest	
+linuxserver/chevereto:latest	
+linuxserver/heimdall:latest	
+neosmemo/memos:latest	
+nextcloud:latest	
+portainer/portainer-ce:latest	
+wallabag/wallabag:latest	
+sigoden/dufs:latest
