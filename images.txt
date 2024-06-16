@@ -1,8 +1,8 @@
+# ------------------------platform=amd64------------------ #
 b3log/siyuan:latest
 cym1102/svnwebui:latest
 excalidraw/excalidraw:latest	
 filebrowser/filebrowser:latest	
-filerun/filerun:latest	
 gitlab/gitlab-ce:latest	
 jeessy/ddns-go:latest	
 jgraph/drawio:latest	
@@ -13,3 +13,8 @@ nextcloud:latest
 portainer/portainer-ce:latest	
 wallabag/wallabag:latest	
 sigoden/dufs:latest
+
+# ------------------------platform=arm64------------------ #
+--platform=linux/arm64 portainer/portainer-ce:latest	
+--platform=linux/arm64 jellyfin/jellyfin:latest	
+--platform=linux/arm64 jeessy/ddns-go:latest	
